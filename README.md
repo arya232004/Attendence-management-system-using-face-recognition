@@ -24,7 +24,7 @@ The proposed attendance management system using face recognition technology that
 Install the project
 
 ```bash
-   https://github.com/arya232004 Attendence-management-system-using-face-recognition.git
+   git clone https://github.com/arya232004/Attendance-management-system-using-face-recognition.git
 
 ```
 
